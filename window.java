@@ -13,13 +13,6 @@ public class window {
 		//System.out.print(getLetterState() + " ");
 	}
 	
-//	public void updateWindow(String newString){
-//		this.head = this.body;
-//		this.body = this.tail;
-//		this.tail = newString;
-//		System.out.println(getLetterState());
-//	}
-	
 	public String getLetterState(){
 		//System.out.println(this.head + this.body + this.tail);
 

@@ -25,19 +25,19 @@ public class ParseSCV {
 	static int avgHit = 0;
 	
 	public static void initArgsForNewLine(){
-    	totalMiss = 0;
-    	totalHit = 0;
+        totalMiss = 0;
+        totalHit = 0;
     	
-    	tempMiss = 0;
-    	tempHit = 0;
+        tempMiss = 0;
+        tempHit = 0;
 
-    	MaxMiss = 0;
-    	MaxHit = 0;
-    	round = 0;
-    	roundForAvg = 0;
+        MaxMiss = 0;
+        MaxHit = 0;
+        round = 0;
+        roundForAvg = 0;
     	
-    	avgMiss = 0;
-    	avgHit = 0;
+        avgMiss = 0;
+        avgHit = 0;
 	}
 	
 	
