@@ -1,0 +1,10 @@
+Yuhang Jiang(Andrew ID: yuhangj)
+
+- How to run:
+    make clean;make (compile)
+    make run (run)
+
+If want to change the input file, please change the ParseCSV.java and do
+not forget to make clean before compiling.
+
+
